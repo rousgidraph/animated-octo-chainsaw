@@ -57,7 +57,8 @@ export class DndDirective {
       
     }
 
-    
+    console.log("Next is how to read json ");
+        
   }
 
 }
